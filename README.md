@@ -1,5 +1,5 @@
 This challenge involved reading from CSV files and analysing the information as broadly as possible. That is using variable to their fullest extent and with minimal use of reading the CSV beforehand.
-This allows for changes to be made to existing columns, and rows, that will be immediatly reflected in the output by the scripts/
+This allows for changes to be made to existing columns, and rows, that will be immediatly reflected in the output by the scripts.
 
 All code is presented in this work is authored soley by me, Blake Singewald with additional guideance from the following links:
 https://www.python.org/dev/peps/pep-0498/
